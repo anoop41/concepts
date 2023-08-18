@@ -1,4 +1,4 @@
 #!/bin/bash
-PERSONS=("ANOOP" "VENKATA" "ADVIK")
+PERSONS=("Anoop" "Venkata" "Advik")
 echo "first person: ${person[0]}"
 echo "second person:${person[1]}"
